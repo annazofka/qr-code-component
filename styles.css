@@ -1,6 +1,4 @@
 :root {
-	--blue: #2c7dfa;
-	--blue-shade: #3685ff;
 	--navy: #1f314f;
 	--grey: #7d889e;
 	--light-grey: #d5e1ef;
@@ -27,7 +25,6 @@ body {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	/* padding-top: 20px; */
 	background-color: var(--white);
 	width: 320px;
 	height: 497px;
